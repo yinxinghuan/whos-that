@@ -1,0 +1,15 @@
+{
+  "endpoint": "https://chat.aiwaves.tech/aigram/api/gen-image",
+  "origin": "https://aigram.app",
+  "prompt": "A premium editorial casting contact sheet containing exactly six different fictional adult friends, arranged as a perfectly even 3 columns by 2 rows grid. Each cell is one separate head-and-shoulders photographic portrait against the same warm light gray studio background. Diverse Western urban friend group: Black woman with short natural curls, white man with red hair, Latina woman with a dark bob, South Asian man with wavy hair, white woman with platinum pixie hair, Black man with close-cropped hair. Ages 25 to 45. Natural expressions, direct or slight three-quarter gaze, soft window light, consistent camera distance, realistic skin, contemporary casual solid-color tops. Clear gutters between all six cells, no overlap, no text, no letters, no numbers, no logos, no frames, no watermarks, no collage decorations. Square 1024x1024 image.",
+  "result_url": "https://cdn.aiwaves.tech/prod/telegram/avatar/0/1785579241116090.webp",
+  "source": "_production/demo-contact-sheet-source.webp",
+  "outputs": [
+    "public/demo/amara.webp",
+    "public/demo/owen.webp",
+    "public/demo/sofia.webp",
+    "public/demo/dev.webp",
+    "public/demo/claire.webp",
+    "public/demo/malik.webp"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "endpoint": "https://chat.aiwaves.tech/aigram/api/gen-image",
+  "origin": "https://aigram.app",
+  "prompt": "Refine this square premium editorial game poster. Keep the exact large English title WHO'S THAT? in the upper 20 percent and allow absolutely no other words or symbols. Keep the central fictional Black woman's portrait hidden by matte black photo masks, with only a narrow vertical slice of her eyes, nose and smile revealed. Keep the red and cobalt crop marks. Place exactly two small circular candidate portraits, one at middle left and one at middle right, both above the 70 percent height line. Remove every portrait and every object from the lower 30 percent; that entire bottom area must be calm warm cream paper texture so app buttons may cover it safely. Use only the diverse Western adults from the reference image, no East Asian subjects. Realistic photography, warm cream uncoated paper, black ink, cobalt and vermilion accents, analogue contact-sheet energy. No Chinese text, no extra letters, no logos, no watermark, no phone UI, no rounded app cards. Make the title and central face instantly readable at 160x160.",
+  "ref_url": "https://cdn.aiwaves.tech/prod/telegram/avatar/0/1785580059778818.webp",
+  "result_url": "https://cdn.aiwaves.tech/prod/telegram/avatar/0/1785580111283687.webp",
+  "source": "_production/poster-source.webp",
+  "output": "public/poster.png"
+}
